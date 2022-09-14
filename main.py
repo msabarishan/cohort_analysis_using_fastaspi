@@ -27,10 +27,10 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
+# Password and host removed for security purpose
 user = 'postgres'
-password = 'EywaAnalytics1!'
-host = 'db.ijdqeitkaffsqnqjestx.supabase.co'
+password = ''
+host = ''
 port = 5432
 database = 'postgres'
 
