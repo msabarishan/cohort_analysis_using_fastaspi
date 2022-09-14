@@ -1,0 +1,6 @@
+fastapi
+pandas
+numpy
+datetime
+sqlalchemy
+psycopg2-binary
